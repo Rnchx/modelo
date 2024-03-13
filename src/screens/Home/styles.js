@@ -6,6 +6,9 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
+  navButton: {
+    backgroundColor: "red"
+  }
 });
 
 export default styles;
